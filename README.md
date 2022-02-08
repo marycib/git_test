@@ -1,1 +1,3 @@
-This is Maribel’s first git project
+This is my first git project
+
+“Hello Odin!”
